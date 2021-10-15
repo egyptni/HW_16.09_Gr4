@@ -1,0 +1,54 @@
+1	  она раздражительно , -- 	и вот . . . -- она 	karenina_lemma_pos.txt
+2	  переехать в Москва .  	и вот в Москва , 	karenina_lemma_pos.txt
+3	  .  -- да , доложить .  	и вот взять телеграмма , 	karenina_lemma_pos.txt
+4	  до чужой человек ?  	и вот выйти , что 	karenina_lemma_pos.txt
+5	  жертвовать он все !  	и вот награда !  о , 	karenina_lemma_pos.txt
+6	  любовь быть счастье ; 	и вот она любить 	karenina_lemma_pos.txt
+7	  гаснуть и гаснуть , 	и вот отчего мы 	karenina_lemma_pos.txt
+8	  бы не сказать .  	и вот письмо этот 	karenina_lemma_pos.txt
+9	  тут быть драма .  	и вот почему .  по-моему , 	karenina_lemma_pos.txt
+10	  глаз направо , налево , 	и вот пред он 	karenina_lemma_pos.txt
+11	  , но сила быть , 	и вот при какой 	karenina_lemma_pos.txt
+12	  получить твой письмо 	и вот приехать .  -- 	karenina_lemma_pos.txt
+13	  ?  -- ужасно страшный !  	и вот так рука 	karenina_lemma_pos.txt
+14	  сказать он .  -- 	и вот ты мой 	karenina_lemma_pos.txt
+15	  о то же .  	и вот что я 	karenina_lemma_pos.txt
+16	  ?  Анна спасти я .  	и вот я жить .  	karenina_lemma_pos.txt
+17	  говорить , а потом 	вот и . . .  -- Maman , 	karenina_lemma_pos.txt
+18	  не брат славянин .  	вот и Константин .  -- 	karenina_lemma_pos.txt
+19	  старший сын .  -- 	вот и Лаврентий , -- 	karenina_lemma_pos.txt
+20	  ?  трое не приходить .  	вот и Семен .  -- 	karenina_lemma_pos.txt
+21	  удовольствие , мой почтенье» , 	вот и весь драма .  	karenina_lemma_pos.txt
+22	  образовать народ , -- 	вот и все .  -- 	karenina_lemma_pos.txt
+23	  он .  -- ну 	вот и все видеть 	karenina_lemma_pos.txt
+24	  дверь .  -- а , 	вот и вы наконец ! 	karenina_lemma_pos.txt
+25	  что-то .  -- а 	вот и вы приехать , 	karenina_lemma_pos.txt
+26	  , и конец .  а 	вот и глазунья , самый 	karenina_lemma_pos.txt
+27	  Алексей Александрович .  -- 	вот и краса Петергоф , 	karenina_lemma_pos.txt
+28	  недоросший лепесток .  -- 	вот и линейка догнать 	karenina_lemma_pos.txt
+29	  Федорович .  -- да 	вот и лошадь слабый 	karenina_lemma_pos.txt
+30	  Павловна .  -- а 	вот и мадам Шталь , 	karenina_lemma_pos.txt
+31	  который все вертеться .  	вот и мой дело 	karenina_lemma_pos.txt
+32	  свой тихий затон .  	вот и наш приятель 	karenina_lemma_pos.txt
+33	  шлюпик ?  -- ты 	вот и не знать 	karenina_lemma_pos.txt
+34	  .  « ага !  стива !  облонский !  	вот и он ! » -- 	karenina_lemma_pos.txt
+35	  же ужин ?  а , 	вот и он , -- 	karenina_lemma_pos.txt
+36	  поцелуй .  -- ну , 	вот и он ! -- 	karenina_lemma_pos.txt
+37	  лакей .  -- а , 	вот и он ! -- 	karenina_lemma_pos.txt
+38	  опоздавать .  -- а , 	вот и он .  -- 	karenina_lemma_pos.txt
+39	  вы привезти гость .  	вот и он .  неожиданный 	karenina_lemma_pos.txt
+40	  звать свой девочка ) .  	вот и она , -- 	karenina_lemma_pos.txt
+41	  плохой другой .  a 	вот и она .  xxxiii  	karenina_lemma_pos.txt
+42	  Долли .  -- да 	вот и она .  узнать , 	karenina_lemma_pos.txt
+43	  обед .  -- а !  	вот и они ! -- 	karenina_lemma_pos.txt
+44	  Бетси .  -- но 	вот и они .  xviii  	karenina_lemma_pos.txt
+45	  красный сумочка .  -- 	вот и папа приехать ! 	karenina_lemma_pos.txt
+46	  на весы .  однако 	вот и поезд .  действительно , 	karenina_lemma_pos.txt
+47	  я брать .  -- 	вот и правда , -- 	karenina_lemma_pos.txt
+48	  ужин .  -- ну 	вот и прекрасно , -- 	karenina_lemma_pos.txt
+49	  я любить она .  	вот и сад казенный 	karenina_lemma_pos.txt
+50	  .  он бонмотист большой .  	вот и спрашивать князь 	karenina_lemma_pos.txt
+51	  , но садиться же , 	вот и суп .  но 	karenina_lemma_pos.txt
+52	  он Яшвин .  -- 	вот и тройка , -- 	karenina_lemma_pos.txt
+53	  другой лицо .  « да 	вот и этот дама 	karenina_lemma_pos.txt
+54	  чувствовать это .  -- 	вот и я , -- 	karenina_lemma_pos.txt
